@@ -155,6 +155,3 @@ Through this project, I gained practical experience in handling real-world datas
 ## 📜 Conclusion
 
 This project demonstrates the effectiveness of Python for analyzing large datasets and extracting valuable insights. By studying baby naming trends, we can observe how cultural, social, and historical factors influence naming preferences over time.
-
-
-This project demonstrates the effectiveness of Python for analyzing large datasets and extracting valuable insights. By studying baby naming trends, we can observe how cultural, social, and historical factors influence naming preferences over time.
